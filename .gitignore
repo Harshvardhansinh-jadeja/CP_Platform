@@ -1,3 +1,8 @@
 *.exe
 tempCodeRunnerFile.cpp
 .vscode
+*.xml
+out
+.idea
+\.idea
+*.idea
